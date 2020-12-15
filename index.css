@@ -44,10 +44,9 @@ ul li{
     padding: 1.5px;
     
 }
-nav > ul > li:hover{
+ nav> ul > li> a:hover{
     color:red;
-    transform:translate(0,0);
-
+    
 }
 
 .burger {
