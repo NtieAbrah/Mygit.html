@@ -75,3 +75,36 @@ form{
     margin-right: 2em;
 }
 
+
+
+@media screen and (max-width: 500px) {
+    header{
+        color:black;
+        background-color: indigo;
+        font-style: italic;
+        font-size: 10px;
+    }
+    form{
+        color:green;
+       
+    }
+    nav{
+        background-color:yellow;
+        font-style:italic;
+        border-radius: 1em;
+        padding:0.5em;
+        margin-left: 0em;
+        margin-right: 0em;
+    }
+    ul li a{
+        color:violet;
+    } 
+    footer{
+        color:white;
+        background-color:black;
+
+    }
+    ul li{
+        padding:1px;
+        display:block;
+    } 
