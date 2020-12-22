@@ -71,7 +71,7 @@ footer{
 }
 
 
-@media screen and (max-width: 500px){
+@media screen and (max-width: 680px){
     header{
         color:blueviolet;
         font-style: italic;
